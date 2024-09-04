@@ -1,0 +1,2 @@
+This project presents an in-depth analysis of the real estate market for the second quarter of 2024, focusing on key metrics such as the total number of properties sold, revenue generated, and the average price per square meter across various regions. 
+By leveraging advanced data analysis techniques and visualizations, this report aims to provide actionable insights into regional trends and comparisons, particularly within Saudi Arabia's major cities, including Riyadh, Makkah, and Jeddah.
